@@ -1,0 +1,28 @@
+{
+  "name": "@yaatp/service-selenium-standalone",
+  "version": "0.0.1",
+  "description": "service to work with selenium standalone",
+  "main": "lib/selenium.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaatp/service-selenium-standalone.git"
+  },
+  "authors": [
+    "Alexandr Galichenko"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaatp/service-selenium-standalone/issues"
+  },
+  "homepage": "https://github.com/yaatp/service-selenium-standalone#readme",
+  "dependencies": {
+    "selenium-standalone": "^8.1.4"
+  },
+  "devDependencies": {
+    "@types/selenium-standalone": "^7.0.1",
+    "typescript": "^4.7.3"
+  }
+}
