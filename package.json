@@ -11,7 +11,8 @@
     "url": "git+https://github.com/qavajs/service-selenium-standalone.git"
   },
   "authors": [
-    "Alexandr Galichenko"
+    "Alexandr Galichenko",
+    "Alexndr Legchilov"
   ],
   "license": "MIT",
   "bugs": {
